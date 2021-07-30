@@ -8,3 +8,4 @@
 - 🤔 I’m looking for help with Firebase 
 - 😄 Pronouns: He/Him.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=preetamvarun)](https://github.com/ryo-ma/github-profile-trophy)

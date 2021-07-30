@@ -6,7 +6,5 @@
 - 🌱 I’m currently learning Flutter and Responsive Web Development
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with Firebase 
-- 💬 Ask me about Anything
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am half finished
 

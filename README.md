@@ -2,11 +2,6 @@
 
 ### I am an App Developer.
 
-- 🔭 I’m currently working on Mobile app and front end web development projects
-- 🌱 I’m currently learning Flutter and Responsive Web Development
-- 👯 I’m looking to collaborate on Flutter
-- 🤔 I’m looking for help with Firebase 
-- 😄 Pronouns: He/Him.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=preetamvarun&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+- 🔭 I’m currently working on Tic Tac Toe.
+- 🌱 I’m currently learning Flutter.
 

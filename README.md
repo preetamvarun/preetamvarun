@@ -3,7 +3,7 @@
 ### I am an App Developer.
 
 - 🔭 I’m currently working on Tic Tac Toe.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning CSS3.
 
 <!-- ![people](https://user-images.githubusercontent.com/49122112/136148389-46d64ad7-3175-4353-b705-431596604b64.gif) 
  -->

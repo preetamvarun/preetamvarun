@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Preetam Varun.
 
-### I am an App Developer.
+### I am an App Developer and an aspiring front end web developer.
 
 - 🔭 I’m currently working on Weather App.
 - 🌱 I’m currently learning Javascript.

@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on Weather App.
 - 🌱 I’m currently learning Javascript.
+- 📫 How to reach me preetamvarun99@gmail.com
 
 <!-- ![people](https://user-images.githubusercontent.com/49122112/136148389-46d64ad7-3175-4353-b705-431596604b64.gif) 
  -->

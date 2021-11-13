@@ -45,9 +45,5 @@
 <img src = "https://user-images.githubusercontent.com/49122112/136148389-46d64ad7-3175-4353-b705-431596604b64.gif" height = 40> <em> <b> I love connecting with different people </b> so if you want to say hi, <b> I'll be happy to meet you more! </b> :) </em>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=preetamvarun.preetamvarun) <br>
-[![Github](https://img.shields.io/github/followers/preetamvarun?label=Follow&style=social)](https://github.com/preetamvarun)
-
-## contact me 📞
-
 
 

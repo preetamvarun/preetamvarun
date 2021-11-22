@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on Weather App.
 - 🌱 I’m currently learning Javascript.
 - 📫 How to reach me preetamvarun99@gmail.com
-- 🤔 Ask me about **Flutter, HTML5, CSS3, Dart**.
-- 🌴 I love Nature.
+
+🌴 I love Nature.
 
 
 ## Editors 🗒️

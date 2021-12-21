@@ -2,7 +2,7 @@
 
 ### I am an App Developer and an aspiring front end web developer.
 
-- 🔭 I’m currently working on Random Password Generator.
+- 🔭 I’m currently working on weather app.
 - 🌱 I’m currently learning Javascript.
 - 📫 How to reach me preetamvarun99@gmail.com
 

@@ -1,9 +1,9 @@
 ### Hi there 👋, I am Preetam Varun.
 
-### I am an App Developer and an aspiring front end web developer.
+### I am an App Developer and an aspiring full stack web developer.
 
 - 🔭 I’m currently working on weather app.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning javascript.
 - 📫 How to reach me preetamvarun99@gmail.com
 
 🌴 I love Nature.

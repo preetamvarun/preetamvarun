@@ -2,7 +2,7 @@
 
 ### I am an App Developer and an aspiring full stack web developer.
 
-- 🔭 I’m currently working on Neumorphic calculator.
+- 🔭 I’m currently working on a portfolio.
 - 🌱 I’m currently learning asynchronous javascript.
 - 📫 How to reach me preetamvarun99@gmail.com
 

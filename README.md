@@ -2,7 +2,7 @@
 
 ### I am an App Developer and an aspiring full stack web developer.
 
-- 🔭 I’m currently working on a weather app.
+- 🔭 I’m currently working on some small vanilla js projects.
 - 🌱 I’m currently learning React.
 - 📫 How to reach me preetamvarun99@gmail.com
 

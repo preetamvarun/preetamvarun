@@ -2,7 +2,7 @@
 
 ### I am an App Developer and an aspiring full stack web developer.
 
-- 🔭 I’m currently working on some small vanilla js projects.
+- 🔭 I’m currently working on front end mentor challenges
 - 🌱 I’m currently revising ascynrhonous javascript concepts.
 - 📫 How to reach me preetamvarun99@gmail.com
 

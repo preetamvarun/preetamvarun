@@ -3,7 +3,7 @@
 ### I am an App Developer and an aspiring full stack web developer.
 
 - 🔭 I’m currently working on front end mentor challenges
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning react, data structures and algorithms.
 - 📫 How to reach me preetamvarun99@gmail.com
 
 🌴 I love Nature.

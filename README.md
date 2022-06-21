@@ -2,7 +2,7 @@
 
 ### I am an App Developer and an aspiring full stack web developer.
 
-- 🔭 I’m currently working on front end mentor challenges
+- 🔭 I’m currently solving some problems on leetcode.
 - 🌱 I’m currently learning react.
 - 📫 How to reach me preetamvarun99@gmail.com
 

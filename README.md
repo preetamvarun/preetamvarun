@@ -3,7 +3,7 @@
 ### I am an App Developer and an aspiring full stack web developer.
 
 - 🔭 I’m currently solving problems on leetcode.
-- 🌱 I’m currently revising javascript 
+- 🌱 I’m currently revising javascript. 
 - 📫 How to reach me preetamvarun99@gmail.com
 
 🌴 I love Nature.

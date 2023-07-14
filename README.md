@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Preetam Varun.
 
-### I am an App Developer and an aspiring full stack web developer.
+### I am a React Developer and an aspiring full stack web developer.
 
 - 🔭 I’m currently solving problems on leetcode.
 - 🌱 I’m currently learning react

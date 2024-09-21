@@ -3,7 +3,7 @@
 ### I am a React Developer and an aspiring full stack web developer.
 
 - 🔭 I’m currently learning Asp.Net and Azure Cloud
-- 🌱 I’m currently learning jquery
+- 🌱 I’m Working as a software Engineer At Capita
 - 📫 How to reach me preetamvarun99@gmail.com
 
 🌴 I love Nature.

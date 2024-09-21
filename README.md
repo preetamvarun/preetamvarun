@@ -2,7 +2,7 @@
 
 ### I am a React Developer and an aspiring full stack web developer.
 
-- 🔭 I’m currently solving problems on leetcode.
+- 🔭 I’m currently learning Asp.Net and Azure Cloud
 - 🌱 I’m currently learning jquery
 - 📫 How to reach me preetamvarun99@gmail.com
 

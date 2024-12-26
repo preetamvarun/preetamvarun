@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Preetam Varun.
 
-### I am a React Developer and an aspiring full stack web developer.
+### I am a React Developer and an aspiring .NET developer.
 
 - 🔭 I’m currently learning Asp.Net and Azure Cloud
 - 🌱 I’m Working as a software Engineer At Capita
